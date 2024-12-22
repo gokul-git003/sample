@@ -1,13 +1,14 @@
 <html>
 <head>
 <title>
-new form creation
+new form creation setup
 </title>
 </head>
 <body> <center>
 first_name:<input type="text" name="username"><br>
 last_name:<input type="text" name="username"><br>
 age:<input type="number" ><br>
+email:<input type="email"><br>
 <input type="submit" value="submit"></center>
 </form>
 </body>
