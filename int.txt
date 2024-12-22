@@ -1,8 +1,5 @@
 <html>
 <head>
-<title>
-new form creation setup
-</title>
 </head>
 <body> <center>
 first_name:<input type="text" name="username"><br>
