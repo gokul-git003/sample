@@ -5,7 +5,7 @@ form creation
 </title>
 </head>
 <body> <center>
-first_name:<input type="text" name="stname"><br>
+first_name:<input type="text" name="username"><br>
 last_name:<input type="text" name="username"><br>
 <input type="submit" value="submit"></center>
 </form>
