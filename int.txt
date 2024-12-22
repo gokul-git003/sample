@@ -7,6 +7,7 @@ new form creation
 <body> <center>
 first_name:<input type="text" name="username"><br>
 last_name:<input type="text" name="username"><br>
+age:<input type="number" ><br>
 <input type="submit" value="submit"></center>
 </form>
 </body>
